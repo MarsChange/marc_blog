@@ -1,0 +1,1 @@
+git --work-tree=/var/nignx/hexo --git-dir=/var/repo/marc_blog.git checkout -f
